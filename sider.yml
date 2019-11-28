@@ -1,0 +1,7 @@
+linter:
+  code_sniffer:
+    dir: Anankos97/PelisReview
+    standard: phpcs.xml
+    extensions: php,css
+    encoding: utf-8
+    ignore: app/Vendor
