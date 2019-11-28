@@ -1,0 +1,4 @@
+linter:
+  phinder:
+    rule: config/phinder.yml
+    php: src
