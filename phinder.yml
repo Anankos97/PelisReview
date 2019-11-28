@@ -1,6 +1,0 @@
-- id: example.security.oauthToken
-  pattern: "->oauthToken()"
-  message: |
-    OAuth token is a credential.
-    Make sure no to expose the calue to users or logs.
-    Use ->filteredOAuthToken() for obfuscated token.
